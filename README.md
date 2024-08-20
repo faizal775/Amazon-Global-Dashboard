@@ -60,4 +60,6 @@ Data Source Integration: Connected and integrated multiple data sources for a un
 DAX (Data Analysis Expressions): Employed DAX functions for complex calculations and data manipulation.
 Project Outcome:
 The "Amazon Global Dashboard" provides a powerful tool for stakeholders to monitor sales performance, identify trends, and make data-driven decisions. The interactive nature of the dashboard allows users to drill down into specific data points, enabling a detailed analysis of Amazon's global sales operations.
+![dashboard](https://github.com/user-attachments/assets/d5fa045a-4ef7-4cb7-9dc3-23ae084e29f7)
+
 
